@@ -1,0 +1,15 @@
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\bin\Debug\net8.0\NEXUS_PRO.exe
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\bin\Debug\net8.0\NEXUS_PRO.deps.json
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\bin\Debug\net8.0\NEXUS_PRO.runtimeconfig.json
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\bin\Debug\net8.0\NEXUS_PRO.dll
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\bin\Debug\net8.0\NEXUS_PRO.pdb
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\obj\Debug\net8.0\NEXUS_PRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\obj\Debug\net8.0\NEXUS_PRO.AssemblyInfoInputs.cache
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\obj\Debug\net8.0\NEXUS_PRO.AssemblyInfo.cs
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\obj\Debug\net8.0\NEXUS_PRO.csproj.CoreCompileInputs.cache
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\obj\Debug\net8.0\NEXUS_PRO.dll
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\obj\Debug\net8.0\refint\NEXUS_PRO.dll
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\obj\Debug\net8.0\NEXUS_PRO.pdb
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\obj\Debug\net8.0\NEXUS_PRO.genruntimeconfig.cache
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\obj\Debug\net8.0\ref\NEXUS_PRO.dll
+C:\Users\Control\Documents\NEXUS PROOOOO\NEXUS_PRO\NEXUS_PRO\obj\Debug\net8.0\NEXUS_PRO.csproj.Up2Date
